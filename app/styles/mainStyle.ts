@@ -1,6 +1,13 @@
-import { StyleSheet } from "react-native";
+import { Dimensions, StyleSheet } from "react-native";
+
+const { width, height } = Dimensions.get('window');
 
 export const baseStyles = StyleSheet.create({
+    container: {
+        minHeight: height,
+        minWidth: width 
+    },
+
     primaryBg: {
         backgroundColor: "#0D0D0F"
     },
