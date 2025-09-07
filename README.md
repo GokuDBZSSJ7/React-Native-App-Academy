@@ -176,7 +176,6 @@ npm start
 - [ ] Gráficos de progresso interativos
 - [ ] Notificações de treino
 - [ ] Compartilhamento de treinos
-- [ ] Modo offline
 - [ ] Backup automático
 - [ ] Integração com wearables
 - [ ] Temas personalizáveis
