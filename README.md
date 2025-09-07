@@ -1,6 +1,6 @@
-# 🎯 Solo Leveling Gym
+# 🎯 Level Up Gym
 
-Um aplicativo React Native moderno e elegante que transforma seus treinos de academia em um sistema de leveling, inspirado no conceito de "solo leveling" - onde cada exercício tem seu próprio nível e XP.
+Um aplicativo React Native moderno e elegante que transforma seus treinos de academia em um sistema de leveling, inspirado no conceito de "Upar de Nivel" - onde cada exercício tem seu próprio nível e XP.
 
 ## ✨ Funcionalidades
 
@@ -199,7 +199,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 🙏 Agradecimentos
 
-- Inspirado no conceito de "Solo Leveling"
+- Inspirado no conceito de "Gamificação das atividades"
 - Comunidade React Native
 - Expo team
 - Todos os contribuidores
